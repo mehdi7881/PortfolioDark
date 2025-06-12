@@ -1,0 +1,9 @@
+{
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.enabled": false,
+  "git.decorations.enabled": false
+}
